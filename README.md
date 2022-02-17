@@ -14,11 +14,11 @@ https://learnopengl-cn.github.io/#
 │        stb_image.cpp  
 │        stb_image.h  
 │    
-└─instance  
-          instancing.cpp  
-          instancing.fs  
-          instancing_1.vs  
-          instancing_2.vs  
-          planet.fs  
-          planet_1.vs  
-          planet_2.vs  
+└─instance    
+            instancing.cpp  
+            instancing.fs  
+            instancing_1.vs  
+            instancing_2.vs  
+            planet.fs  
+            planet_1.vs  
+            planet_2.vs  
