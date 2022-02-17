@@ -23,3 +23,5 @@ https://learnopengl-cn.github.io/#
             planet.fs  
             planet_1.vs  
             planet_2.vs  
+            
+![image](https://github.com/Kuwaaaa/My_LearnOpengl_Code/blob/main/images/instance_planet.gif)
