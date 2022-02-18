@@ -3,7 +3,7 @@
 Implementation followed learnOpengl:
 https://learnopengl-cn.github.io/#
 
-除了head文件夹外，每个文件夹都是一个根据learnOpenGL实现的代码。  
+根据learnOpenGL实现的代码。  
 目前依赖还没找全，暂时运行不了。
 
 ├─head  
