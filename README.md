@@ -1,6 +1,6 @@
 ### My_LearnOpengl_Code
 
-Implementation followed learnOpengl:
+Implemented followed learnOpengl:
 https://learnopengl-cn.github.io/#
 
 根据learnOpenGL实现的代码。  
