@@ -4,7 +4,9 @@ Implemented followed learnOpengl:
 https://learnopengl-cn.github.io/#
 
 根据learnOpenGL实现的代码。  
-目前依赖还没找全，暂时运行不了。
+目前依赖还没补全，这里不包含项目环境(assimp, glfw, glad, glm)。
+
+
 
 ├─head  
 │        Camera.h             
